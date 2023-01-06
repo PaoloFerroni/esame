@@ -1,0 +1,1 @@
+Gioco "Indovina la Capitale" - test esame del corso JS
